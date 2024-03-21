@@ -27,5 +27,3 @@ while no_of_message > 0:
     time.sleep(1)
     pyautogui.press("enter")
     no_of_message -= 1
-
-
